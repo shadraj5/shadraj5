@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahid Raza
-- 👀 I’m interested in web development
+- 👀 I’m interested in development
 - 🌱 I’m currently working as a freelancer
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on development
 - 📫 mail me shadraj5@gmail.com
 
 <!---
